@@ -1,0 +1,12 @@
+pandas
+numpy
+tensorflow
+tensorflow-recommenders
+fastapi
+redis
+pyspark
+faiss-cpu
+uvicorn
+pydantic
+pydantic-settings
+
